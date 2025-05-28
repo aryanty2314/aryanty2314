@@ -53,3 +53,9 @@
 <img src="https://raw.githubusercontent.com/aryanty2314/aryanty2314/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aryanty2314/count.svg?"  />
+</div>
+
+###
