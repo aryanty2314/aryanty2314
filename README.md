@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm  Aryan Tyagi from India<br><br>-👨‍💻 I'm a Java Backend Developer<br>- 🔭 I’m working on E-Auction Application <br>- 📚 I'm currently learning frontend development <br>- 👦 Looking for an opportunity <br>- ⚡ In my free time I play games and watch web series</p>
+<p align="left">I'm  Aryan Tyagi from India<br><br>-👨‍💻 I'm a Java Backend Developer<br>- 🔭 I’m working on a new project using Langchain  <br>- 📚 I'm currently learning frontend development <br>- 👦 Looking for an opportunity <br>- ⚡ In my free time I play games and watch web series</p>
 
 ###
 
